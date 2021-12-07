@@ -1,0 +1,7 @@
+[options]
+prefix = /home/roura10/PAV
+libdir = lib
+buildtype = release
+
+[properties]
+
